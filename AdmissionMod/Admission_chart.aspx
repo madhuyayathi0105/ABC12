@@ -1,7 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AdmissionMod/AttendanceSubSiteMaster.master"
     AutoEventWireup="true" CodeFile="Admission_chart.aspx.cs" Inherits="AdmissionMod_Admission_chart" %>
-database server;
-Tool Required as source control;
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
+</asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
     <center>
         <center>
